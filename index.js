@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 });
 
 
-const statusMessages = ["Đang chơi ----- City","🏢 UNIFIED POLICE DEPARTMENT 🏢","⛔ LOS SANTOS POLICE DEPARTMENT ⛔","⛔ BLAINE COUNTY SHERIFF'S OFFICE ⛔","✅ TO PROTECT AND TO SERVE ✅","👮 Ban Quản Lý Cảnh Sát UPD 👮","🛠️ Nhận setup Discord & PD theo yêu cầu 🛠️","📞 Contact Discord: thuyalwayssmiles93"];
+const statusMessages = ["Đang chơi JC ROLEPLAY City","🏢UNIFIED POLICE DEPARTMENT🏢","🏙️LOS SANTOS POLICE DEPARTMENT🏙️","🏜️BLAINE COUNTY SHERIFF'S OFFICE🏜️","🚧CENTRAL INVESTIGATION BUREAU🚧","✅TO PROTECT AND TO SERVE✅","👮Ban Quản Lý Cảnh Sát UPD👮","🛠️Nhận setup Discord & PD theo yêu cầu🛠️","📞Contact Discord: thuyalwayssmiles93"];
 
 
 let currentIndex = 0;
